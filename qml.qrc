@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/baseline_menu_white_48dp.png</file>
+        <file>img/baseline_settings_white_48dp.png</file>
+        <file>img/img1.jpg</file>
+        <file>img/img2.jpg</file>
+        <file>img/img3.jpg</file>
+    </qresource>
+</RCC>
